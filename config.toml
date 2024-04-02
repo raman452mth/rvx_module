@@ -5,20 +5,26 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 # you can use rvmm-config-gen to generate a config
 
-[youtube-rvx]
+[youtube-revanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-rv-brand = "anddea rvx"
 arch = "arm64-v8a"
 version = "19.05.36"
-included-patches = "'Change player flyout panel toggles' 'Custom branding heading' 'Spoof player parameters'"
-excluded-patches = "'Add splash animation' 'Alternative thumbnails' 'Change start page' 'Custom playback speed' 'Disable HDR video' 'Disable QUIC protocol' 'Disable landscape mode' 'Disable rolling number animations' 'Disable speed overlay' 'Enable compact controls overlay' 'Enable gradient loading screen' 'Enable language switch' 'Enable new splash animation' 'Enable new thumbnail preview' 'Enable tablet navigation bar' 'Enable wide search bar' 'Force opus codec' 'Force video codec' 'Header switch' 'Hide account menu' 'Hide autoplay button' 'Hide captions button' 'Hide category bar' 'Hide channel avatar section' 'Hide channel watermark' 'Hide collapse button' 'Hide double tap overlay filter' 'Hide end screen overlay' 'Hide handle' 'Hide previous next button' 'Hide seekbar' 'Hide time stamp' 'Layout switch' 'Shorts overlay buttons' 'SponsorBlock' 'Swipe controls' 'Translations' 'Tuck away preferences' 'Visual preferences icons'"
+included-patches = "'Change header'"
 
 [youtube-rex]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "YT-Advanced/rex-patches"
 integrations-source = "YT-Advanced/rex-integrations"
+arch = "arm64-v8a"
+version = "19.05.36"
+included-patches = "'Change player flyout panel toggles' 'Custom branding heading' 'Spoof player parameters'"
+excluded-patches = "'Add splash animation' 'Alternative thumbnails' 'Change start page' 'Custom playback speed' 'Disable HDR video' 'Disable QUIC protocol' 'Disable landscape mode' 'Disable rolling number animations' 'Disable speed overlay' 'Enable compact controls overlay' 'Enable gradient loading screen' 'Enable language switch' 'Enable new splash animation' 'Enable new thumbnail preview' 'Enable tablet navigation bar' 'Enable wide search bar' 'Force opus codec' 'Force video codec' 'Header switch' 'Hide account menu' 'Hide autoplay button' 'Hide captions button' 'Hide category bar' 'Hide channel avatar section' 'Hide channel watermark' 'Hide collapse button' 'Hide double tap overlay filter' 'Hide end screen overlay' 'Hide handle' 'Hide previous next button' 'Hide seekbar' 'Hide time stamp' 'Layout switch' 'Shorts overlay buttons' 'SponsorBlock' 'Swipe controls' 'Translations' 'Tuck away preferences' 'Visual preferences icons'"
+
+[youtube-rvx]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
+rv-brand = "anddea rvx"
 arch = "arm64-v8a"
 version = "19.05.36"
 included-patches = "'Change player flyout panel toggles' 'Custom branding heading' 'Spoof player parameters'"
