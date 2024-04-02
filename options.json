@@ -26,24 +26,6 @@
         "value": "app.mod.android.youtube"
       }
     ]
-  },
-     {
-    "patchName": "Change header",
-    "options": [
-      {
-        "key": "header",
-        "value": "res/"
       }
-    ]
-  },
-     {
-    "patchName": "Theme",
-    "options": [
-      {
-        "key": "darkThemeBackgroundColor",
-        "value": "#FF191919"
-      }
-    ]
-  }
 ]
         
