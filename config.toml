@@ -14,3 +14,24 @@ arch = "arm64-v8a"
 version = "19.05.36"
 included-patches = "'Spoof player parameters'"
 excluded-patches = "'Alternative thumbnails' 'Change start page' 'Disable HDR video' 'Disable QUIC protocol' 'Disable landscape mode' 'Disable rolling number animations' 'Disable speed overlay' 'Enable compact controls overlay' 'Enable gradient loading screen' 'Enable language switch' 'Enable new splash animation' 'Enable new thumbnail preview' 'Enable tablet navigation bar' 'Enable wide search bar' 'Force opus codec' 'Force video codec' 'Header switch' 'Hide autoplay button' 'Hide captions button' 'Hide channel avatar section' 'Hide channel watermark' 'Hide collapse button' 'Hide double tap overlay filter' 'Hide end screen overlay' 'Hide handle' 'Hide load more button' 'Hide previous next button' 'Hide seekbar' 'Hide time stamp' 'Layout switch' 'Shorts overlay buttons' 'SponsorBlock' 'Swipe controls' 'Translations' 'Tuck away preferences' 'Visual preferences icons'"
+
+[
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "app.mod.android.youtube"
+      }
+    ]
+  },
+  {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "DarkThemeBackgroundColor",
+        "value": "#FF191919"
+      }
+    ]
+  }
+]
