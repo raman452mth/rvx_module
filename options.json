@@ -1,6 +1,22 @@
         
 [
   {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "darkThemeBackgroundColor",
+        "value": "#FF191919"
+      }
+    ]
+  },
+  {
+    "patchName": "Change header",
+    "options": [
+      {
+        "key": "header",
+        "value": "res/"
+      }
+  {
     "patchName": "Custom branding heading",
     "options": [
       {
