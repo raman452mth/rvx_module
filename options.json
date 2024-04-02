@@ -1,10 +1,11 @@
+        
 [
   {
-    "patchName": "Custom package name",
+    "patchName": "Custom branding heading",
     "options": [
       {
-        "key": "PackageNameYouTube",
-        "value": "app.mod.android.youtube"
+        "key": "header",
+        "value": "res/"
       }
     ]
   },
@@ -16,5 +17,15 @@
         "value": "#FF191919"
       }
     ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "app.mod.android.youtube"
+      }
+    ]
   }
 ]
+        
