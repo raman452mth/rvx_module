@@ -16,6 +16,8 @@
         "key": "header",
         "value": "res/"
       }
+    ]
+  },
   {
     "patchName": "Custom branding heading",
     "options": [
