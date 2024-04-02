@@ -1,24 +1,6 @@
         
 [
-  {
-    "patchName": "Theme",
-    "options": [
-      {
-        "key": "darkThemeBackgroundColor",
-        "value": "#FF191919"
-      }
-    ]
-  },
-  {
-    "patchName": "Change header",
-    "options": [
-      {
-        "key": "header",
-        "value": "res/"
-      }
-    ]
-  },
-  {
+    {
     "patchName": "Custom branding heading",
     "options": [
       {
@@ -27,7 +9,7 @@
       }
     ]
   },
-  {
+     {
     "patchName": "Theme",
     "options": [
       {
@@ -36,12 +18,30 @@
       }
     ]
   },
-  {
+      {
     "patchName": "Custom package name",
     "options": [
       {
         "key": "PackageNameYouTube",
         "value": "app.mod.android.youtube"
+      }
+    ]
+  },
+     {
+    "patchName": "Change header",
+    "options": [
+      {
+        "key": "header",
+        "value": "res/"
+      }
+    ]
+  },
+     {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "darkThemeBackgroundColor",
+        "value": "#FF191919"
       }
     ]
   }
