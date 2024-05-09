@@ -11,7 +11,7 @@ patches-source = "YT-Advanced/rex-patches"
 integrations-source = "YT-Advanced/rex-integrations"
 rv-brand = "alireza"
 arch = "arm64-v8a"
-version = "19.05.36"
+version = "18.29.38"
 included-patches = "'Change player flyout panel toggles' 'Spoof player parameters'"
 excluded-patches = "'Alternative thumbnails' 'Change start page' 'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom playback speed' 'Disable HDR video' 'Disable QUIC protocol' 'Disable rolling number animations' 'Disable speed overlay' 'Enable compact controls overlay' 'Enable gradient loading screen' 'Enable language switch' 'Enable new splash animation' 'Enable new thumbnail preview' 'Enable tablet navigation bar' 'Enable wide search bar' 'Force opus codec' 'Force video codec' 'Hide account menu' 'Hide autoplay button' 'Hide captions button' 'Hide category bar' 'Hide channel avatar section' 'Hide channel watermark' 'Hide collapse button' 'Hide end screen overlay' 'Hide handle' 'Hide load more button' 'Hide previous next button' 'Hide seekbar' 'Hide time stamp' 'Layout switch' 'Overlay buttons' 'SponsorBlock' 'Swipe controls' 'Translations'"
 
