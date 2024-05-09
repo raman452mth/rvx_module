@@ -1,5 +1,5 @@
-youtube-rvx: 19.05.36  
 youtube-rex: 18.29.38  
+youtube-rvx: 19.05.36  
 Revanced-Extended: 19.16.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
