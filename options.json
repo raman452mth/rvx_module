@@ -9,6 +9,19 @@
       }
     ]
   },
+        {
+    "patchName": "Overlay buttons",
+    "options": [
+      {
+        "key": "OutlineIcon",
+        "value": true
+      },
+      {
+        "key": "WiderBottomPadding",
+        "value": false
+      }
+    ]
+        },
      {
     "patchName": "Theme",
     "options": [
