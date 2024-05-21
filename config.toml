@@ -33,3 +33,10 @@ rv-brand = "inotia00"
 arch = "arm64-v8a"
 version = "19.05.36"
 excluded-patches = "'Change start page' 'Custom branding icon YouTube' 'Custom branding name YouTube' 'Disable QUIC protocol' 'Enable debug logging' 'Enable gradient loading screen' 'Layout switch' 'Shorts outline button' 'SponsorBlock' 'Swipe controls' 'Translations'"
+
+[YouTube ReVanced]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+arch = "arm64-v8a"
+version = "19.05.36"
+included-patches = "'Enable slide to seek'"
+excluded-patches = "'Always repeat' 'Announcements' 'Enable debugging' 'Wide searchbar' 'Enable tablet layout' 'Hide captions button' 'Hide autoplay button' 'Hide player buttons' 'Change start page' 'Hide filter bar' 'Copy video URL' 'Swipe controls'"
