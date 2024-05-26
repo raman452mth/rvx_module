@@ -6,7 +6,7 @@ excluded-patches = "'Announcements' 'Enable debugging' 'Enable tablet layout' 'H
 
 [YouTube-RVX]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "raman452mth/revanced-patches"
+patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "inotia00"
 arch = "arm64-v8a"
