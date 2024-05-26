@@ -4,12 +4,12 @@ version = "19.05.36"
 included-patches = "'Enable slide to seek'"
 excluded-patches = "'Announcements' 'Enable debugging' 'Enable tablet layout' 'Hide captions button' 'Hide autoplay button' 'Hide player buttons' 'Navigation buttons' 'Theme' 'Hide seekbar' 'Hide filter bar' 'Hide timestamp' 'Swipe controls'"
 
-[YouTube RVX]
+[YouTube-RVX]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "inotia00"
 arch = "arm64-v8a"
-version = "19.20.34"
+version = "19.16.38"
 included-patches = "'MaterialYou'"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom double tap length' 'Disable QUIC protocol' 'Enable debug logging' 'Enable gradient loading screen' 'Layout switch' 'Shorts outline button' 'Swipe controls'"
