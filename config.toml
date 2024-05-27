@@ -1,9 +1,3 @@
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-version = "19.05.36"
-included-patches = "'Enable slide to seek'"
-excluded-patches = "'Announcements' 'Enable debugging' 'Enable tablet layout' 'Hide captions button' 'Hide autoplay button' 'Hide player buttons' 'Navigation buttons' 'Theme' 'Hide seekbar' 'Hide filter bar' 'Hide timestamp' 'Swipe controls'"
-
 [YouTube-RVX]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
