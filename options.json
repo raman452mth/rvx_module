@@ -1,37 +1,15 @@
         
 [
-    {
-    "patchName": "Custom branding heading",
+  {
+    "patchName": "Custom header for YouTube",
     "options": [
       {
-        "key": "header",
+        "key": "CustomHeader",
         "value": "res/"
       }
     ]
   },
-        {
-    "patchName": "Overlay buttons",
-    "options": [
-      {
-        "key": "OutlineIcon",
-        "value": true
-      },
-      {
-        "key": "WiderBottomPadding",
-        "value": false
-      }
-    ]
-        },
-     {
-    "patchName": "Theme",
-    "options": [
-      {
-        "key": "DarkThemeBackgroundColor",
-        "value": "#FF191919"
-      }
-    ]
-  },
-      {
+  {
     "patchName": "Custom package name",
     "options": [
       {
@@ -39,6 +17,15 @@
         "value": "app.mod.android.youtube"
       }
     ]
+  },
+  {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "DarkThemeBackgroundColor",
+        "value": "#191919"
       }
+    ]
+  }
 ]
         
