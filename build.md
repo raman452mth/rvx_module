@@ -14,5 +14,5 @@ Patches: anddea/revanced-patches-2.225.0.jar
 
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
 Integrations: inotia00/revanced-integrations-1.10.1.apk  
-Patches: inotia00/revanced-patches-4.9.1.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.9.1)  
+Patches: raman452mth/revanced-patches-4.9.1.jar  
+[Changelog](https://github.com/raman452mth/rex-patches/releases/tag/v4.9.1)  
