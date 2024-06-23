@@ -1,4 +1,4 @@
-YouTube-RVX: 19.05.36  
+YouTube-RVX: 19.23.40  
 YouTube-anddea: 19.05.36  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
@@ -13,6 +13,6 @@ Patches: anddea/revanced-patches-2.225.0.jar
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.225.0)
 
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: inotia00/revanced-integrations-1.10.1.apk  
+Integrations: inotia00/revanced-integrations-1.10.2.apk  
 Patches: raman452mth/revanced-patches-4.9.1.2.jar  
 [Changelog](https://github.com/raman452mth/rex-patches/releases/tag/v4.9.1.2)  
