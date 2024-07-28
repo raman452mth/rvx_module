@@ -1,5 +1,7 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
 arch = "arm64-v8a"
 build-mode = "both"
 version = "19.05.36"
