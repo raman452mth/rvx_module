@@ -1,6 +1,6 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "arm64-v8a"
-build-mode = "module"
+build-mode = "both"
 version = "19.05.36"
 excluded-patches = "'Ambient mode control' 'Custom Shorts action buttons' 'Custom branding icon for YouTube' 'Custom double tap length' 'Disable QUIC protocol' 'Enable OPUS codec' 'Enable debug logging' 'Enable gradient loading screen' 'Layout switch' 'Swipe controls' 'Translations for YouTube'"
