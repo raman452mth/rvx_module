@@ -1,24 +1,6 @@
         
 [
   {
-    "patchName": "Custom header for YouTube",
-    "options": [
-      {
-        "key": "CustomHeader",
-        "value": "res/"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom package name",
-    "options": [
-      {
-        "key": "PackageNameYouTube",
-        "value": "app.mod.android.youtube"
-      }
-    ]
-  },
-  {
     "patchName": "Theme",
     "options": [
       {
